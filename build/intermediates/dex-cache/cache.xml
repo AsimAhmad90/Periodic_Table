@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\asim\AndroidStudioProjects\PeriodicTable\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="50f9b8c34426bf4c9100169b1883cc7cee5de6f0">
+        <dex dex="C:\Users\asim\AndroidStudioProjects\PeriodicTable\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_66e38029827a5777cc98e7962dc43b2672956ffb\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\asim\AndroidStudioProjects\PeriodicTable\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="C:\Users\asim\AndroidStudioProjects\PeriodicTable\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-23.4.0_87e7f1e2f9c073fd0a699d056e5b35c7d4615655\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\asim\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.4.0\support-annotations-23.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="C:\Users\asim\AndroidStudioProjects\PeriodicTable\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-23.4.0_4d87015e824a7c9e1166be271657f24ef56566bd\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\asim\AndroidStudioProjects\PeriodicTable\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="C:\Users\asim\AndroidStudioProjects\PeriodicTable\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-23.4.0_17f6ce1ec0ee20fec7402c49767317bf19270a37\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\asim\AndroidStudioProjects\PeriodicTable\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="ae5dbceb081f10cc88f4c15cc39e44b4f073b945">
+        <dex dex="C:\Users\asim\AndroidStudioProjects\PeriodicTable\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_c68542deded682a0309f993776b536bacea26554\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\asim\AndroidStudioProjects\PeriodicTable\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\libs\internal_impl-23.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="C:\Users\asim\AndroidStudioProjects\PeriodicTable\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-23.4.0_9fc47c092f3626f0256e20bbc1522ee4deffd1ea\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\asim\AndroidStudioProjects\PeriodicTable\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="C:\Users\asim\AndroidStudioProjects\PeriodicTable\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-23.4.0_46e96d240ebdeeedecd005d2b99c73a3d8c3dc4f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\asim\AndroidStudioProjects\PeriodicTable\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="C:\Users\asim\AndroidStudioProjects\PeriodicTable\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-23.4.0_d4eed6a22ac0dab01f419d1d5f014c5872d724df\classes.dex" />
+    </item>
+
+</items>

@@ -1,0 +1,7 @@
+#Sat Feb 24 09:18:48 PST 2018
+base.0=C\:\\Users\\asim\\AndroidStudioProjects\\PeriodicTable\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_66e38029827a5777cc98e7962dc43b2672956ffb
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=C\:\\Users\\asim\\AndroidStudioProjects\\PeriodicTable\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_c68542deded682a0309f993776b536bacea26554\\classes.dex
+base.1=C\:\\Users\\asim\\AndroidStudioProjects\\PeriodicTable\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_c68542deded682a0309f993776b536bacea26554
+file.0=C\:\\Users\\asim\\AndroidStudioProjects\\PeriodicTable\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_66e38029827a5777cc98e7962dc43b2672956ffb\\classes.dex
