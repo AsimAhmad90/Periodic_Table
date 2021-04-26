@@ -95,7 +95,7 @@
     <property name="project.structure.last.edited" value="SDK Location" />
     <property name="project.structure.proportion" value="0.17" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
     <property name="show.migrate.to.gradle.popup" value="false" />
   </component>
   <component name="RecentsManager">
@@ -310,7 +310,7 @@
       </method>
     </configuration>
   </component>
-  <component name="SvnConfiguration">
+  <component name="SvnConfiguration" cleanupOnStartRun="true">
     <configuration />
   </component>
   <component name="TaskManager">
@@ -356,7 +356,14 @@
       <option name="project" value="LOCAL" />
       <updated>1619398345087</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Periodic Table App Java">
+      <created>1619398839484</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1619398839484</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -423,9 +430,12 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="CHECK_CODE_CLEANUP_BEFORE_PROJECT_COMMIT" value="true" />
+    <ignored-roots>
+      <path value="$PROJECT_DIR$" />
+    </ignored-roots>
     <MESSAGE value="Periodic Table App" />
     <MESSAGE value="Periodic Table App Java" />
-    <option name="LAST_COMMIT_MESSAGE" value="" />
+    <option name="LAST_COMMIT_MESSAGE" value="Periodic Table App Java" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
   <component name="WindowStateProjectService">
@@ -449,10 +459,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="92" y="92" width="1736" height="856" key="DiffContextDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1618519406026" />
-    <state x="538" y="107" key="FileChooserDialogImpl" timestamp="1618518878731">
+    <state x="538" y="107" key="FileChooserDialogImpl" timestamp="1619403106819">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="538" y="107" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1618518878731" />
+    <state x="538" y="107" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1619403106819" />
     <state width="1306" height="176" key="GridCell.Tab.0.bottom" timestamp="1615478039889">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -473,27 +483,43 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="540" y="262" key="IDE.errors.dialog/0.0.1920.1040@0.0.1920.1040" timestamp="1619398706910" />
+    <state x="184" y="86" key="MergeDialog" timestamp="1619403337814">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="184" y="86" key="MergeDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1619403337814" />
     <state x="841" y="240" key="RollbackChangesDialog" timestamp="1618519677629">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="841" y="240" key="RollbackChangesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1618519677629" />
-    <state x="461" y="164" key="SettingsEditor" timestamp="1619398789403">
+    <state x="461" y="164" key="SettingsEditor" timestamp="1619407427315">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="184" y="8" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1614587192526" />
-    <state x="461" y="164" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1619398789403" />
-    <state x="136" y="234" key="Vcs.Push.Dialog.v2" timestamp="1618520648243">
+    <state x="461" y="164" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1619407427315" />
+    <state x="807" y="433" key="VCS.ChangelistChooser" timestamp="1619403333318">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="136" y="234" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1618520648243" />
-    <state x="100" y="102" width="905" height="800" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog" timestamp="1618519163456">
+    <state x="807" y="433" key="VCS.ChangelistChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1619403333318" />
+    <state x="136" y="234" key="Vcs.Push.Dialog.v2" timestamp="1619398930846">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="100" y="102" width="905" height="800" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1618519163456" />
+    <state x="136" y="234" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1619398930846" />
+    <state x="100" y="102" width="905" height="800" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog" timestamp="1619406039772">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="100" y="102" width="905" height="800" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1619406039772" />
     <state x="769" y="433" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1618519068248">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="769" y="433" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1040@0.0.1920.1040" timestamp="1618519068248" />
+    <state x="740" y="324" key="git4idea.history.wholeTree.VcsStructureChooser" timestamp="1619403394655">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="740" y="324" key="git4idea.history.wholeTree.VcsStructureChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1619403394655" />
+    <state x="92" y="92" width="1736" height="856" key="git4idea.log.GitShowExternalLogAction" timestamp="1619403199104">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="92" y="92" width="1736" height="856" key="git4idea.log.GitShowExternalLogAction/0.0.1920.1040@0.0.1920.1040" timestamp="1619403199104" />
     <state x="720" y="309" key="git4idea.ui.GitUnstashDialog" timestamp="1618515529541">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
